@@ -5,13 +5,11 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 namespace AspNetCoreTodo.Controllers
 {
-    public class FightingController : Controller
+    public class FGController : Controller
     {
         public IActionResult Index()
         {
-            // Get to-do items from database
-            // Put items into a model
-            // Render view using the model
+           
         }
     }
 }
