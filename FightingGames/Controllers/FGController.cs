@@ -10,7 +10,12 @@ namespace FightingGames.Controllers
     {
         public IActionResult Index()
         {
-           
+            var model = new FGViewModel()
+            {
+                FightingGames = fightinggames
+            };
+
+            return View(model);        
         }
     }
 }
