@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using FightingGames.Services;
 
 namespace FightingGames.Controllers
 {
@@ -15,8 +16,10 @@ namespace FightingGames.Controllers
             _fGamesService = fGamesService;
         }
 
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
+            var items = await _fGamesService.GetIncompleteItemsAsync();
+
             var model = new FGViewModel()
             {
                 FightingGames = fightinggames
