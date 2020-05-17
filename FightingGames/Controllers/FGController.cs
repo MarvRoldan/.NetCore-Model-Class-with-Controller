@@ -8,6 +8,13 @@ namespace FightingGames.Controllers
 {
     public class FGController : Controller
     {
+        private readonly IFGamesService _fGamesService;
+
+        public FGController(IFGamesService fGamesService)
+        {
+            _fGamesService = fGamesService;
+        }
+
         public IActionResult Index()
         {
             var model = new FGViewModel()

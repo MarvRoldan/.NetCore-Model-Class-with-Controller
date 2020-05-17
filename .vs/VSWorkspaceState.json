@@ -1,6 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\FightingGames",
+    "\\FightingGames\\Controllers",
+    "\\FightingGames\\Models",
+    "\\FightingGames\\Services",
+    "\\FightingGames\\Views\\FGames",
+    "\\FightingGames\\Views\\Home"
   ],
+  "SelectedNode": "\\FightingGames\\Services\\FGamesService.cs",
   "PreviewInSolutionExplorer": false
 }
