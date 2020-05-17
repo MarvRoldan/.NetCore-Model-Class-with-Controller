@@ -1,0 +1,8 @@
+C:\Users\Marvin\desktop\NetCore-Assignment#1\FightingGames\obj\Debug\netcoreapp3.1\FightingGames.csprojAssemblyReference.cache
+C:\Users\Marvin\desktop\NetCore-Assignment#1\FightingGames\obj\Debug\netcoreapp3.1\FightingGames.csproj.CoreCompileInputs.cache
+C:\Users\Marvin\desktop\NetCore-Assignment#1\FightingGames\obj\Debug\netcoreapp3.1\FightingGames.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Marvin\desktop\NetCore-Assignment#1\FightingGames\obj\Debug\netcoreapp3.1\FightingGames.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Marvin\desktop\NetCore-Assignment#1\FightingGames\obj\Debug\netcoreapp3.1\FightingGames.RazorAssemblyInfo.cache
+C:\Users\Marvin\desktop\NetCore-Assignment#1\FightingGames\obj\Debug\netcoreapp3.1\FightingGames.RazorAssemblyInfo.cs
+C:\Users\Marvin\desktop\NetCore-Assignment#1\FightingGames\obj\Debug\netcoreapp3.1\FightingGames.AssemblyInfoInputs.cache
+C:\Users\Marvin\desktop\NetCore-Assignment#1\FightingGames\obj\Debug\netcoreapp3.1\FightingGames.AssemblyInfo.cs

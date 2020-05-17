@@ -5,8 +5,8 @@ using FightingGames.Models;
 
 namespace FightingGames.Services
 {
-    public interface ITodoItemService
+    public interface IFGamesService
     {
-        Task<TodoItem[]> GetIncompleteItemsAsync();
+        Task<FGDetails[]> GetIncompleteItemsAsync();
     }
 }
