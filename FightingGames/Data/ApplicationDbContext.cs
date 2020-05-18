@@ -8,6 +8,8 @@ namespace FightingGames.Data
 {
     public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
     {
+        public DbSet<FGDetails> FightingGames { get; set; } 
+
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
             : base(options)
         {
