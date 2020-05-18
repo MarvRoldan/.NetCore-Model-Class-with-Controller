@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using FightingGames.Services;
+using FightingGames.Models;
 
 namespace FightingGames.Controllers
 {
@@ -18,11 +19,11 @@ namespace FightingGames.Controllers
 
         public async Task<IActionResult> Index()
         {
-            var items = await _fGamesService.GetIncompleteItemsAsync();
+            var item = await _fGamesService.GetIncompleteItemsAsync();
 
             var model = new FGViewModel()
             {
-                FightingGames = fightinggames
+                FightingGames = item
             };
 
             return View(model);        

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Marvin\\desktop\\NetCore-Assignment#1\\FightingGames\\FightingGames.csproj": {}
+    "C:\\Users\\Marvin\\Desktop\\NetCore-Assignment#1\\FightingGames\\FightingGames.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Marvin\\desktop\\NetCore-Assignment#1\\FightingGames\\FightingGames.csproj": {
+    "C:\\Users\\Marvin\\Desktop\\NetCore-Assignment#1\\FightingGames\\FightingGames.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Marvin\\desktop\\NetCore-Assignment#1\\FightingGames\\FightingGames.csproj",
+        "projectUniqueName": "C:\\Users\\Marvin\\Desktop\\NetCore-Assignment#1\\FightingGames\\FightingGames.csproj",
         "projectName": "FightingGames",
-        "projectPath": "C:\\Users\\Marvin\\desktop\\NetCore-Assignment#1\\FightingGames\\FightingGames.csproj",
+        "projectPath": "C:\\Users\\Marvin\\Desktop\\NetCore-Assignment#1\\FightingGames\\FightingGames.csproj",
         "packagesPath": "C:\\Users\\Marvin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Marvin\\desktop\\NetCore-Assignment#1\\FightingGames\\obj\\",
+        "outputPath": "C:\\Users\\Marvin\\Desktop\\NetCore-Assignment#1\\FightingGames\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Marvin\\AppData\\Roaming\\NuGet\\NuGet.Config",

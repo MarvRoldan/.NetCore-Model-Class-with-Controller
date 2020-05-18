@@ -5,7 +5,7 @@ using FightingGames.Models;
 
 namespace FightingGames.Services
 {
-    public class ExampleService : FGamesService
+    public class ExampleService : IFGamesService
     {
         public Task<FGDetails[]> GetIncompleteItemsAsync()
         {
